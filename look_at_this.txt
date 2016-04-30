@@ -1,0 +1,6 @@
+Problem 1: Supports the 4 opperands, let, and if #t or f (basic requirements for the problem)
+		If function checks for #t or f, simple integer boolean expressions, number of arguments. Outputs specific errors for each case
+		Let checks if a variable is defined after it's use (so, it clears the dictionary after one run of let), checks for divide by zero error
+
+Problem 2: Supports most env's in lis.py, such as car, cdr, and define
+	Example: (car '(1 2 3))
